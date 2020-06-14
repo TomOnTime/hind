@@ -5,6 +5,9 @@ package hind
 // generics.  That said, it serves as a proof-of-concept to see if
 // this would be a useful addition to the language.
 
+// This is experimental. If you join this experiment, I'd love
+// feedback on whether or not you felt this was worth it.
+
 // If we had generics, I'd call this end(), highest(), or ultimate().
 
 import "reflect"
